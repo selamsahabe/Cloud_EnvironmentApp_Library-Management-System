@@ -7,9 +7,9 @@ The application allows the user to create/save, update, delete and view books, b
  
 ## Contributors:
 
-Selam Sahabe Karadag 40469
-Elifcan Yasar
-Nigar 
+- Selam Sahabe Karadag 40469
+- Elifcan Yasar
+- Nigar 
 
 ### Features Implemented
 - Database relations
